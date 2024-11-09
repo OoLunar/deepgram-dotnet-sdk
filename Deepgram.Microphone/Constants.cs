@@ -13,7 +13,7 @@ public static class Defaults
     public const int CHANNELS = 1;
 
     // Default chunk size
-    public const int CHUNK_SIZE = 8194;
+    public const int CHUNK_SIZE = 8192;
 
     // Default input device index
     public const SampleFormat SAMPLE_FORMAT = SampleFormat.Int16;
